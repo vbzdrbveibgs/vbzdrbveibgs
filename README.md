@@ -1,7 +1,4 @@
 Hi!I'm @vbzdrbveibgs.I come from China.
 Just arrived at github.
-And we're going to develop small projects to entertain.
-Please look forward to.
-PS:There's no big project here.
-   All items are for entertainment only!
-   I am not a professional developer!
+I‘m going to write some blog posts in the repository.
+Using markdown syntax.
